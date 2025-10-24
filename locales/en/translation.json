@@ -1,0 +1,15 @@
+{
+    "أسيوط":"Assiut",
+    "الصغرى":"min",
+    "الكبرى":"max",
+    "سماء صافية":"Clear Sky",
+    "غيوم قليلة":"few clouds",
+    "غيوم متفرقة":"scattered clouds",
+    "زخات مطر":"shower rain",
+    "مطر":"rain",
+    "عاصفة رعدية":"thunderstorm",
+    "ثلوج":"snow",
+    "ضباب":"mist",
+    "غيوم متقطعة / غائم جزئيًا":"broken clouds"
+
+}
